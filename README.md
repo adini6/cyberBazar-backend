@@ -65,6 +65,9 @@ Once the server is up and running, you can use Insomnia Core or any other API te
 - The `/api/products` endpoint
 - The `/api/tags` endpoint
 
+  ![cyberBazar-back](https://github.com/adini6/cyberBazar-backend/assets/28551058/a4bf2cdf-a2cc-4a30-8a36-2151168e92d4)
+
+
 ## Features 
 
 - API routes for products, categories, and tags.

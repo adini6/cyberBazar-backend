@@ -67,6 +67,7 @@ Once the server is up and running, you can use Insomnia Core or any other API te
 
   ![cyberBazar-back](https://github.com/adini6/cyberBazar-backend/assets/28551058/a4bf2cdf-a2cc-4a30-8a36-2151168e92d4)
 
+[walkthrough video](https://drive.google.com/file/d/1bb7_ngG4BxqHbonXTE7Du1guNoN61Ef2/view)
 
 ## Features 
 
